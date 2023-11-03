@@ -37,11 +37,9 @@ else:
     dtype = torch.FloatTensor
     print("CPU")
 
-datas = ['Science']
-itere = 0
 
-# datas =['Arts','Business','Computers','Entertainment','Recreation','Society']
 
+datas =['Arts','Business','Computers','Entertainment','Recreation','Society']
 dat = loadmat('Datasets/' + datas[0] + ".mat")
 train = dat['train']
 test = dat['test']
