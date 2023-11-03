@@ -1,5 +1,4 @@
 import torch
-from LocalStructure import LCS
 from tqdm import tqdm
 import numpy as np
 from skmultilearn.dataset import load_dataset
