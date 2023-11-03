@@ -40,7 +40,7 @@ else:
 datas = ['Science']
 itere = 0
 
-# ERS =['Arts','Business','Computers','Entertainment','Recreation','Society']
+# datas =['Arts','Business','Computers','Entertainment','Recreation','Society']
 
 dat = loadmat('Datasets/' + datas[0] + ".mat")
 train = dat['train']
