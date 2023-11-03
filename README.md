@@ -1,6 +1,6 @@
 # Multi-label feature selection with shared common mode (2020)
 
-Authors = Wanfu Gao, Yonghao Li, and Liang Hu.
+Authors = Liang Hu, Yonghao Li, Wanfu Gao, Ping Zhang, Juncheng Hu.
 
 Journal = Pattern Recognition.
 
