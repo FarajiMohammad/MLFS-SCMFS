@@ -111,7 +111,7 @@ for j in tqdm(range(20)):
     Mac = f1_score(Y_test, predictions, average='macro')
     HML = hamming_loss(Y_test, predictions)
     RNL = label_ranking_loss(Y_test, scores)
-    AVP = average_precision_score(Y_test, scores)
+    AVP = average_precision_score(Y_test.T, scores.T)
     COV = coverage_error(Y_test, scores)
 print('Micro-F1:',Mic,'\n','Macro-F1:',Mac,'\n','Hamming Loss:',HML,'\n','Ranking Loss:',RNL,'\n','Average Precision:',AVP,'\n','Coverage Error:',COV)
 
