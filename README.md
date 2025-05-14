@@ -1,5 +1,5 @@
 # Multi-label feature selection with shared common mode (2020)
-[Multi-label feature selection with shared common mode (2020)]([https:\\](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301473)
+[Multi-label feature selection with shared common mode (2020)](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301473)
 - A modified version of DeepFM is used to win the 4th Place for [Mercari Price Suggestion Challenge on Kaggle](https://www.kaggle.com/c/mercari-price-suggestion-challenge). See the slide [here](https://github.com/ChenglongChen/tensorflow-XNN/blob/master/doc/Mercari_Price_Suggesion_Competition_ChenglongChen_4th_Place.pdf) how we deal with fields containing sequences, how we incoporate various FM components into deep model.
 
 Authors = Liang Hu, Yonghao Li, Wanfu Gao, Ping Zhang, Juncheng Hu.
