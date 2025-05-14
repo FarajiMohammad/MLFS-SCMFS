@@ -1,4 +1,5 @@
 # Multi-label feature selection with shared common mode (2020)
+[Multi-label feature selection with shared common mode (2020)]([https:\\](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301473)
 
 Authors = Liang Hu, Yonghao Li, Wanfu Gao, Ping Zhang, Juncheng Hu.
 
